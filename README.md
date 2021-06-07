@@ -3,7 +3,7 @@
 
 1. Clone or Download the NLP-Student-Project.
 2. Using Eclipse, open the zip file "NLP Program Eclipse Project".
-3. Refer to Getting Started NLP guide if issues arise.
+3. Refer to "Getting Started NLP" pdf guide if issues arise.
 
 ### Required Software
 
